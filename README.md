@@ -19,7 +19,7 @@ https://nandertga.ddns.net/
 
 https://discord.gg/MzKQPXmDRc
 
-@KillerzTheDev Entier bot dev...
+@KillerzTheDev Entire bot dev...
 
 https://github.com/KillerzTheDev
 
