@@ -26,3 +26,7 @@ https://github.com/KillerzTheDev
 https://killerzwebsite.000webhostapp.com/
 
 https://discord.gg/PWps2yFABp
+
+@windows-85 package.json fixer
+
+https://github.com/windows-85
