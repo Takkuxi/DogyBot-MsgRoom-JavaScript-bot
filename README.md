@@ -19,7 +19,7 @@ https://nandertga.ddns.net/
 
 https://discord.gg/MzKQPXmDRc
 
-@KillerzTheDev Entire bot dev...
+@KillerzTheDev Creator and principal bot dev...
 
 https://github.com/KillerzTheDev
 
