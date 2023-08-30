@@ -1,0 +1,17 @@
+{
+  "name": "killerz",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "bot.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "keywords": [
+    "!"
+  ],
+  "author": "jussed",
+  "license": "ISC",
+  "dependencies": {
+    "msgroom": "^1.3.1"
+  }
+}
